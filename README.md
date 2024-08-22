@@ -1,0 +1,1 @@
+This is my 3D animation of a fan. It uses a cloth simulation for the strips being blown by the wind. The STL file can be viewed [here](https://github.com/M0HID/fan/blob/main/fan.stl) and the final render [here](https://github.com/M0HID/fan/blob/main/output.mp4)
